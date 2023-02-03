@@ -25,7 +25,3 @@ public class Main02 {
         System.out.println("降序排序: " + Arrays.toString(arr));
     }
 }
-
-/**
- *  Initialized empty Git repository in E:/02_Java/10_JavaSE/02_JavaSE/JavaSE/.git/
- */
