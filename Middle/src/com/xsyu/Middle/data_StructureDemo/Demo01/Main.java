@@ -25,6 +25,12 @@ public class Main {
         list.add("BBB", 1);
         list.add("CCC", 2);
         list.remove(1);     //下标为1的元素，即BBB
+
+        System.out.println("查询位置: " + list.get(1));
         System.out.println(list);
+        System.out.println(list.isEmpty());
     }
 }
+/**
+ * branch 'master' set up to track 'origin/master'.
+ */

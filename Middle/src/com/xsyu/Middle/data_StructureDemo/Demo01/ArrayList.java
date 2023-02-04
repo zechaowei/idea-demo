@@ -44,6 +44,17 @@ public class ArrayList<E> {
         return e;
     }
 
+    @SuppressWarnings("unchecked")
+    public E get(int index){
+        if (index < 0 || index > size - 1)
+            throw new IndexOutOfBoundsException("查询位置非法，合法的查询位置为: 0 ~ " + (size - 1));
+        return (E) array[index];
+    }
+
+    public boolean isEmpty(){
+        return size == 0;
+    }
+
     public String toString() {
         System.out.println("顺序表的总容量: " + capacity);
         StringBuilder builder = new StringBuilder();
