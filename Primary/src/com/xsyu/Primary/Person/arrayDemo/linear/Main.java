@@ -1,4 +1,4 @@
-package com.xsyu.Primary.arrayDemo.linear;
+package com.xsyu.Primary.Person.arrayDemo.linear;
 
 /**
  * ClassName: Main

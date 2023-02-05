@@ -1,4 +1,4 @@
-package com.xsyu.Primary.arrayDemo.multidimensional;
+package com.xsyu.Primary.Person.arrayDemo.multidimensional;
 
 /**
  * ClassName: Main

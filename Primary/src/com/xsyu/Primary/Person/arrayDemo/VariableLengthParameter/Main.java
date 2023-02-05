@@ -1,4 +1,4 @@
-package com.xsyu.Primary.arrayDemo.VariableLengthParameter;
+package com.xsyu.Primary.Person.arrayDemo.VariableLengthParameter;
 
 /**
  * ClassName: Main
