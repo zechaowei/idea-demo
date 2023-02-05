@@ -1,4 +1,4 @@
-package com.xsyu.Middle.list.Demo01;
+package com.xsyu.Middle.list.Demo;
 
 import java.util.ArrayList;
 import java.util.Arrays;
