@@ -18,11 +18,13 @@ public class Main02 {
         list.add("BBB");
         list.add("AAA");
         list.add("AAA");
+        list.add("DDD");
         //ArrayList<E> 中 indexOf(Object o) 返回此列表中第一次出现的索引，如果此列表不包含元素，则返回-1
         System.out.println(list.indexOf("CCC"));
         System.out.println(list.indexOf("AAA"));        //返回列表中第一次出现的索引
         System.out.println(list.indexOf("BBB"));
         //lastIndexOf(Object o) 返回此列表中最后一次出现的索引，如果此列表不包含元素，则返回-1
         System.out.println(list.lastIndexOf("AAA"));
+        System.out.println(list.subList(3, 4));
     }
 }
