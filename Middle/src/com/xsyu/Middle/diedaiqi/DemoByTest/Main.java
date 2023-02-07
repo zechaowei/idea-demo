@@ -9,6 +9,7 @@ import java.util.ListIterator;
  * ClassName: Main
  * Package: com.xsyu.Middle.diedaiqi.DemoByTest
  * Description: 深入了解 迭代器 语法
+ *              用于阅读 Iterator   源码时做的测试
  *
  * @Author: Mr.weizechao
  * @Create: 2023/2/7 - 19:59
