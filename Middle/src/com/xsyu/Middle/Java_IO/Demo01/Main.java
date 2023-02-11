@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 /**
  * ClassName: Main
  * Package: com.xsyu.Middle.Java_IO.Demo01
- * Description:
+ * Description: 相对路径/绝对路径
  *
  * @Author: Mr.weizechao
  * @Create: 2023/2/11 - 21:16
