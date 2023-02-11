@@ -14,7 +14,7 @@ public class ArrayList<E> {
     private int capacity = 10;
     private Object[] array = new Object[capacity];
 
-    public ArrayList(E asList) {
+    public ArrayList() {
     }
 
     public void add(E element, int index) {
